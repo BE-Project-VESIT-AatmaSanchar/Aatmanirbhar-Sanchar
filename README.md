@@ -90,3 +90,12 @@ Once left, the user can not access the chat history and for enhanced security th
 
     File Transfer Process
 ![test](https://github.com/BE-Project-VESIT-AatmaSanchar/Aatmanirbhar-Sanchar/blob/master/screenshots/image1.png)
+
+
+
+## Mobile Application
+
+We have also developed a Mobile Application of the above stated web Application
+
+Code for the same is there in this particular [Repository](https://github.com/BE-Project-VESIT-AatmaSanchar/Aatmanirbhar-Sanchar-App)
+
