@@ -11,7 +11,7 @@ To deploy this project please refer the following link which contains the instru
     CENTOS
     WINDOWS 
 
-[Deployment Cookbook](https://docs.google.com/document/d/1fSwpv6ZCRhyami0U6lCNLExHZtTIIsLdNf6ZaCJpGYY/edit)
+[Deployment Cookbook](https://docs.google.com/document/d/1fSwpv6ZCRhyami0U6lCNLExHZtTIIsLdNf6ZaCJpGYY/edit#heading=h.ps3q5wgkiq74)
 
 
 
